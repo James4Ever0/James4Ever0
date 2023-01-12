@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James4Ever0
 - 👀 I’m interested in AI/AGI assisted automatic content generation, marketing
 - 🌱 I’m currently learning automatic video generation
-- 💞️ I’m looking to collaborate on [pyjom](https://github.com/James4Ever0/pyjom)
+- 💞️ I’m looking for collaborators on [pyjom](https://github.com/James4Ever0/pyjom)
 - 📫 How to reach me: pull requests or issues please!
 
 <!---
