@@ -4,10 +4,12 @@
 - 💞️ I’m looking for collaborators on [pyjom](https://github.com/James4Ever0/pyjom) and [cybergod](https://github.com/James4Ever0/agi_computer_control)
 - 📫 How to reach me: pull requests or issues please!
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=James4Ever0)](https://github.com/ryo-ma/github-profile-trophy)
-[![James4Ever0's github stats](https://github-readme-stats.vercel.app/api?username=James4Ever0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![github profile summary cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=James4Ever0&theme=github)
+<p align="left">
+<a href="https://github.com/james4ever0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=james4ever0&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=james4ever0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 <!---
 James4Ever0/James4Ever0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
