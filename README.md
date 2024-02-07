@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning automatic video generation
 - 💞️ I’m looking for collaborators on [pyjom](https://github.com/James4Ever0/pyjom) and [cybergod](https://github.com/James4Ever0/agi_computer_control)
 - 📫 How to reach me: pull requests or issues please!
+- Fund me with SUI at: `0x9c79e006a68ef5683f5b05f2e39b2e2a88d7e35ce0d4b37a1d6bee6c64575fd5`
 
 <div>
 <p align="left">
